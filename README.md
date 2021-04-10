@@ -17,7 +17,7 @@ Freesound "Coins 1"
 
 The Biggest Discovery Royalty Free Music
 
-# Future Devlopment
+# Future Development
 None
 
 # Created by
